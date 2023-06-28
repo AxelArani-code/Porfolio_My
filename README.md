@@ -13,7 +13,7 @@ This project is build with simple HTML AND css showcasing my skills
 
 [Live Demo Link](https://axelarani-code.github.io/Porfolio_My/)
 
-![image](https://user-images.githubusercontent.com/81693905/175304537-ca203c36-cd3e-4ce2-9a95-c5a336d413c4.png)
+![image](https://github.com/AxelArani-code/Porfolio_My/blob/main/Images/Screenshot_5.png?raw=true)
 
 
 
