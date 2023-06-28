@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Setup and mobile version skeleton part 1
+# My Porfolio
 
-> Profile project part 1.
+> Profile project.
 This project is build with simple HTML AND css showcasing my skills
 
 ## Built With
