@@ -11,7 +11,7 @@ This project is build with simple HTML AND css showcasing my skills
 - Stylelint
 - Github actions,
 
-[Live Demo Link](https://zingy-muffin-ffbe87.netlify.app/)
+[Live Demo Link](https://axelarani-code.github.io/Porfolio_My/)
 
 ![image](https://user-images.githubusercontent.com/81693905/175304537-ca203c36-cd3e-4ce2-9a95-c5a336d413c4.png)
 
@@ -47,26 +47,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Ezekiel Utshudi Eteta**
 
-- GitHub: [@ezekielutshudi](https://github.com/EzekielUtshudi)
-- Twitter: [@ezekielutshudi](https://twitter.com/UtshudiEzekiel)
-- LinkedIn: [@ezekielutshudi](https://www.linkedin.com/in/ezekiel-utshudi-195782162/)
+- GitHub: [@AxelArani-code](https://github.com/AxelArani-code)
+- LinkedIn: [@axelaranibar](https://www.linkedin.com/in/axel-aranibar-942767198/)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
